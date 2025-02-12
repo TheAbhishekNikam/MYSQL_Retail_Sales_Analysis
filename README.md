@@ -140,5 +140,3 @@ This study can be extended by:
 ABHISHEK V NIKAM  
 
 ---
-
-This README is well-structured and includes everything needed to make your GitHub repository informative and professional. Let me know if you need any modifications!
