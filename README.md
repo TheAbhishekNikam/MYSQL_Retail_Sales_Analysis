@@ -7,7 +7,7 @@ This project analyzes customer purchasing behavior, product sales trends, and or
 The dataset consists of three tables:  
 - **Customers (200 records)** – Includes customer details such as name, email, phone number, city, and country.  
 - **Products (50 records)** – Contains product details such as name, category, price, and stock quantity.  
-- **Orders (800 records)** – Stores order transactions, including customer purchases, product details, quantity, and order amount.  
+- **Orders** – Stores order transactions, including customer purchases, product details, quantity, and order amount.  
 
 These tables are linked using:  
 - `CustomerID` (associates orders with customers)  
